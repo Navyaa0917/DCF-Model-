@@ -1,6 +1,6 @@
 # 🍹 DCF Model – Happy Hour Project
 
-This repository contains a **Discounted Cash Flow (DCF) valuation model** for the **Happy Hour** concept/business, created in Microsoft Excel.  
+This repository contains a **Discounted Cash Flow (DCF) valuation model** for the **Happy Hour** Co., created in Microsoft Excel.  
 It is designed to provide a structured approach for evaluating the financial viability of the business using projected cash flows and discounting techniques.
 
 ---
