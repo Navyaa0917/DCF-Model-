@@ -49,10 +49,3 @@ It is designed to provide a structured approach for evaluating the financial via
 
 
 ---
-
-## 🤝 Contributing
-Contributions are welcome!  
-To suggest improvements:
-- Fork the repo
-- Create a new branch
-- Submit a pull
